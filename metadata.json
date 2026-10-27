@@ -1,0 +1,6 @@
+{
+  "name": "마인드페이퍼 (MindPaper)",
+  "description": "우리들의 따뜻한 온라인 롤링페이퍼 - 생일, 교생실습, 졸업, 전학 등 특별한 순간을 위한 링크 & QR 공유 롤링페이퍼 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
